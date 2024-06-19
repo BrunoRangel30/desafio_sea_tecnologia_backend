@@ -1,0 +1,23 @@
+# Diretórios
+node_modules/
+.tmp/
+logs/
+
+# Arquivos
+package-lock.json
+npm-debug.log
+
+# Outros
+.env
+*.DS_Store
+yarn/cache
+node_modules/.cache/
+
+# Arquivos gerados
+dist/
+coverage/
+build/
+
+# IDE e arquivos de configuração do editor
+.idea/
+.vscode/
