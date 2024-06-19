@@ -20,5 +20,5 @@ Descrição detalhada sobre o que é o projeto, por que ele foi criado e quais p
 Passos para instalar as dependências e preparar o ambiente para desenvolvimento.
 
 1. Clone o repositório:
-   ```bash
-   git clone https://github.com/usuario/nome-do-repositorio.git
+2. npm install
+
